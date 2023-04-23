@@ -17,6 +17,7 @@ function App() {
         >
           Learn React Awesome 2
         </a>
+        <a href="https://www.w3schools.com/">Home</a>
       </header>
     </div>
   );
